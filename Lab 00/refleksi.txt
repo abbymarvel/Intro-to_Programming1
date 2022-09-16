@@ -1,0 +1,6 @@
+Sejauh ini saya belum menemukan kesulitan, namun saya masih agak asing dengan menu dan tampilan pada IDLE python.
+
+Saya akan memberi diri saya sendiri nilai kemampuan programming 2/x5. Setelah saya mengikuti DDP0, saya sudah mengerti command-command dasar seperti: print, input, if, elif, dan else.
+
+Ekspektasi dan harapan saya untuk asisten dosen DDP1:
+Semoga kita bisa berkomunikasi dengan baik, dapat menjadi teman, mungkin sharing-sharing tentang kehidupan di Fasilkom, dan dapat membantu jika saya mengalami kesulitan di DDP1 :) Terima kasih.
